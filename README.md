@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Wacky Yuan Dwayne Paulino and I'm a Student, from The University of Mundanao</p>
+<p align="left">My name is Wacky Yuan Dwayne Paulino and I'm a Student, from The University of Mindanao</p>
 
 ###
 
