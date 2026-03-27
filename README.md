@@ -57,7 +57,6 @@ Focused on Web Development and Advanced SQL
 
 ---
 
-## Contact
 
 <p align="center">
   <a href="https://github.com/wydp">
